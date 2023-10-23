@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .container{
 	display:flex;
-	justify-content:center;
+	justify-content:holder;
 	flex-wrap:wrap;
 }
 
