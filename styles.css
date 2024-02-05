@@ -1,9 +1,10 @@
 
 /* Your CSS Code here. */
 .container{
-	display:flex;
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
 	justify-content:center;
-	flex-wrap:wrap;
+	
 }
 
 #b1{
